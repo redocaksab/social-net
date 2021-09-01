@@ -1,0 +1,11 @@
+
+.error input,
+.error textarea {
+    border: solid red 2px;
+}
+
+.borderSummaryError {
+    border: red 1px solid;
+    padding: 5px;
+    color:crimson;
+}
